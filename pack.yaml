@@ -1,0 +1,7 @@
+---
+ref: webui
+name: webui
+description: "Tests for webui."
+version: 0.1.0
+author: st2-dev
+email: support@stackstorm.com
